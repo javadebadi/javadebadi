@@ -2,7 +2,6 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/javad.ebadi.1990.png" alt="Your Image Badge" />
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4369786" style='border:none;'></iframe>
 
 I am Javad. I have a PhD in Particle Physics and I work in software engineering industry.
 
