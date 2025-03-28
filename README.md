@@ -5,5 +5,5 @@
 I am Javad. I have a PhD in Particle Physics and I work in software engineering industry.
 
 Here are links you can learn more about me and companies I have worked for:
-- [Linkedin](https://](https://www.linkedin.com/in/javadebadi/)
+- [Linkedin](https://www.linkedin.com/in/javadebadi/)
 - [Website](https://javadebadi.com)
